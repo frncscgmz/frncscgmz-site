@@ -6,7 +6,7 @@ comments: true
 categories: [Perl,DuckDuckGo]
 ---
 
-{% img https://s3-us-west-2.amazonaws.com/frncscgmz-blog/ddg.png %}
+![DDG](https://s3-us-west-2.amazonaws.com/frncscgmz-blog/ddg.png)
 
 For about half a year ago I've been experimenting with the search engine 
 **DuckDuckGo**, which main selling point is that they don't keep records of your 

@@ -25,4 +25,4 @@ alias ccat='pygmentize -g'
 
 From monochrome to fabulous.
 
-{% img https://s3-us-west-2.amazonaws.com/frncscgmz-blog/ccat.png %}
+![cat!](https://s3-us-west-2.amazonaws.com/frncscgmz-blog/ccat.png)

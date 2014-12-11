@@ -71,7 +71,7 @@ When the Siege test its over, a small recap is displayed of the test results,
 for me this is one of the best things about Siege, it gives you straight data 
 which is easy to understand.
 
-{% img https://s3-us-west-2.amazonaws.com/frncscgmz-blog/stresspic2.jpg Finished Siege test %}
+![Finished Siege test](https://s3-us-west-2.amazonaws.com/frncscgmz-blog/stresspic2.jpg)
 
 ### ab - Apache Bench ###
 
@@ -115,7 +115,7 @@ ab's results are much more detailed than Siege's results, personally I find some
 of ab's results not that necessary, but it's always good to have the flexibility 
 to have all this data on hand.
 
-{% img https://s3-us-west-2.amazonaws.com/frncscgmz-blog/stresspic3.jpg Finished Apache Bench test %}
+![Finished Apache Bench test](https://s3-us-west-2.amazonaws.com/frncscgmz-blog/stresspic3.jpg)
 
 Both ab and Siege are really handy tools with tons of functionality and a lot 
 of neat little things that are beyond the scope of this lowly blog post(I don't 
