@@ -3,3 +3,4 @@
 _site
 .sass-cache
 _includes/google_analytics.html
+s3_website.yml
